@@ -1,4 +1,5 @@
-web: node dist/server.js
+web: npm start
+
 
 
 
