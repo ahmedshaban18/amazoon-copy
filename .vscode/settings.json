@@ -1,0 +1,7 @@
+{
+  "eslint.enable": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.pythonPath": "C:\\Python27\\python.exe",
+  "python.linting.flake8Enabled": false
+}
