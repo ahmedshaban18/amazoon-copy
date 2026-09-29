@@ -1,9 +1,6 @@
 
 app = "amazoon-copy"
 
-[build]
-  dockerfile = "Dockerfile"
-
 [env]
   PORT = "8080"
 
