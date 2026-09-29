@@ -1,4 +1,4 @@
-app = "project-sell"
+app = "amazoon-copy"
 
 [env]
   PORT = "8080"
