@@ -17,3 +17,8 @@ app = "amazoon-copy"
   [[services.ports]]
     handlers = ["tls", "http"]
     port = 443
+
+  
+[[mounts]]
+  source = "uploads"
+  destination = "/project/uploads"
