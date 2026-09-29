@@ -1,6 +1,8 @@
 
 app = "amazoon-copy"
 
+[build]
+  builder = "heroku/builder:22"
 [env]
   PORT = "8080"
 
